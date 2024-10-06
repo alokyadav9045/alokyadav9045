@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alokyadav
 - 👀 I’m interested in Mern stack development 
 - 🌱 I’m currently learning frontend development
--    and i want to be a software development 
+-    and i want to be a software developer 
 
 <!---
 alokyadav9045/alokyadav9045 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
